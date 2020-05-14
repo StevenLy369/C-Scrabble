@@ -1,0 +1,17 @@
+C:\Users\Steven\Desktop\epi\c#\Scrabble\ModelTests\obj\Debug\netcoreapp2.2\Scrabble.Tests.csprojAssemblyReference.cache
+C:\Users\Steven\Desktop\epi\c#\Scrabble\ModelTests\obj\Debug\netcoreapp2.2\Scrabble.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\epi\c#\Scrabble\ModelTests\obj\Debug\netcoreapp2.2\Scrabble.Tests.AssemblyInfoInputs.cache
+C:\Users\Steven\Desktop\epi\c#\Scrabble\ModelTests\obj\Debug\netcoreapp2.2\Scrabble.Tests.AssemblyInfo.cs
+C:\Users\Steven\Desktop\epi\c#\Scrabble\ModelTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Steven\Desktop\epi\c#\Scrabble\ModelTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Steven\Desktop\epi\c#\Scrabble\ModelTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Steven\Desktop\epi\c#\Scrabble\ModelTests\bin\Debug\netcoreapp2.2\Scrabble.Tests.deps.json
+C:\Users\Steven\Desktop\epi\c#\Scrabble\ModelTests\bin\Debug\netcoreapp2.2\Scrabble.Tests.runtimeconfig.json
+C:\Users\Steven\Desktop\epi\c#\Scrabble\ModelTests\bin\Debug\netcoreapp2.2\Scrabble.Tests.runtimeconfig.dev.json
+C:\Users\Steven\Desktop\epi\c#\Scrabble\ModelTests\bin\Debug\netcoreapp2.2\Scrabble.Tests.dll
+C:\Users\Steven\Desktop\epi\c#\Scrabble\ModelTests\bin\Debug\netcoreapp2.2\Scrabble.Tests.pdb
+C:\Users\Steven\Desktop\epi\c#\Scrabble\ModelTests\bin\Debug\netcoreapp2.2\Scrabble.dll
+C:\Users\Steven\Desktop\epi\c#\Scrabble\ModelTests\bin\Debug\netcoreapp2.2\Scrabble.pdb
+C:\Users\Steven\Desktop\epi\c#\Scrabble\ModelTests\obj\Debug\netcoreapp2.2\Scrabble.Tests.csproj.CopyComplete
+C:\Users\Steven\Desktop\epi\c#\Scrabble\ModelTests\obj\Debug\netcoreapp2.2\Scrabble.Tests.dll
+C:\Users\Steven\Desktop\epi\c#\Scrabble\ModelTests\obj\Debug\netcoreapp2.2\Scrabble.Tests.pdb
